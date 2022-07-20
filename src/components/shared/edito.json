@@ -1,0 +1,25 @@
+{
+  "collectionName": "components_shared_editos",
+  "info": {
+    "displayName": "edito",
+    "icon": "credit-card",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "description": {
+      "type": "richtext"
+    },
+    "theme": {
+      "type": "enumeration",
+      "enum": [
+        "Yellow",
+        "Purple",
+        "Blue"
+      ]
+    }
+  }
+}

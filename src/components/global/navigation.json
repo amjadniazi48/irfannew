@@ -1,0 +1,22 @@
+{
+  "collectionName": "components_global_navigations",
+  "info": {
+    "displayName": "navigation",
+    "icon": "stream"
+  },
+  "options": {},
+  "attributes": {
+    "theme": {
+      "type": "enumeration",
+      "enum": [
+        "light",
+        "dark"
+      ]
+    },
+    "panels": {
+      "type": "component",
+      "repeatable": true,
+      "component": "global.navigation-panel"
+    }
+  }
+}

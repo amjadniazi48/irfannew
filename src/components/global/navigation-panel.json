@@ -1,0 +1,20 @@
+{
+  "collectionName": "components_global_navigation_panels",
+  "info": {
+    "displayName": "navigationPanel",
+    "icon": "network-wired"
+  },
+  "options": {},
+  "attributes": {
+    "link": {
+      "type": "component",
+      "repeatable": false,
+      "component": "shared.link"
+    },
+    "sublinks":{
+      "type": "component",
+      "repeatable": true,
+      "component": "shared.link"
+    }
+  }
+}

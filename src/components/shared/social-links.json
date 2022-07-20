@@ -1,0 +1,16 @@
+{
+  "collectionName": "components_shared_social_links",
+  "info": {
+    "displayName": "socialLinks",
+    "icon": "project-diagram"
+  },
+  "options": {},
+  "attributes": {
+    "link": {
+      "type": "string"
+    },
+    "icon": {
+      "type": "string"
+    }
+  }
+}
