@@ -17,7 +17,7 @@
     "@strapi/provider-email-sendgrid": "^4.2.3",
     "@strapi/provider-upload-cloudinary": "^4.2.3",
     "@strapi/strapi": "4.2.3",
-    "graphql": "^16.5.0",
+   
     "pg": "^8.7.3",
     "pg-connection-string": "^2.5.0"
   },
@@ -28,7 +28,7 @@
     "uuid": "2d3cdbdf-0772-4eb8-9fc1-d4f2e00ecb32"
   },
   "engines": {
-    "node": ">=12.x.x <=16.x.x",
+    "node": "14.19.1",
     "npm": ">=6.0.0"
   },
   "license": "MIT"
