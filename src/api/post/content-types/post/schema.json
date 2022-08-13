@@ -69,7 +69,8 @@
         "Slider",
         "Publication"
       ],
-      "required": true
+      "required": false,
+      "default": "Normal"
     }
   }
 }
