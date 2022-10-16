@@ -11,12 +11,12 @@
   },
   "devDependencies": {},
   "dependencies": {
-    "@strapi/plugin-graphql": "4.3.3",
-    "@strapi/plugin-i18n": "4.3.3",
-    "@strapi/plugin-users-permissions": "4.3.3",
-    "@strapi/provider-email-sendgrid": "^4.3.3",
-    "@strapi/provider-upload-cloudinary": "^4.3.3",
-    "@strapi/strapi": "4.3.3",
+    "@strapi/plugin-graphql": "4.4.3",
+    "@strapi/plugin-i18n": "4.4.3",
+    "@strapi/plugin-users-permissions": "4.4.3",
+    "@strapi/provider-email-sendgrid": "^4.4.3",
+    "@strapi/provider-upload-cloudinary": "^4.4.3",
+    "@strapi/strapi": "4.4.3",
    
     "pg": "^8.7.3",
     "pg-connection-string": "^2.5.0"
@@ -28,7 +28,7 @@
     "uuid": "2d3cdbdf-0772-4eb8-9fc1-d4f2e00ecb32"
   },
   "engines": {
-    "node": "14.19.1",
+    "node": "16.17.1",
     "npm": ">=6.0.0"
   },
   "license": "MIT"
