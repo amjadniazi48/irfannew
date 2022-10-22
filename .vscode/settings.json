@@ -1,0 +1,8 @@
+{
+    "appService.zipIgnorePattern": [
+        "node_modules{,/**}",
+        ".vscode{,/**}"
+    ],
+    "appService.defaultWebAppToDeploy": "/subscriptions/bf11f6c7-4066-4abf-bead-b99db83d4b09/resourceGroups/appsvc_linux_centralus_basic/providers/Microsoft.Web/sites/strapibackend",
+    "appService.deploySubpath": "."
+}
