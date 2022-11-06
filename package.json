@@ -5,7 +5,7 @@
   "description": "A Strapi application",
   "scripts": {
     "develop": "strapi develop",
-    "start": "NODE_ENV=production node server.js",
+    "start": "strapi start",
     "build": "strapi build",
     "strapi": "strapi"
   },
@@ -28,7 +28,7 @@
     "uuid": "2d3cdbdf-0772-4eb8-9fc1-d4f2e00ecb32"
   },
   "engines": {
-    "node": "16.14.2",
+    "node": "14.19.1",
     "npm": ">=6.0.0"
   },
   "license": "MIT"
